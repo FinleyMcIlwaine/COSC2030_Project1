@@ -1,2 +1,2 @@
 # COSC2030_Project1
-Project 1: Blood Sugar
+Project 1: Blood sugar tracker
